@@ -1,14 +1,11 @@
-# shooter_game
+# krustini un nullites
 
 ## Apraksts
-         spēles galvenais varonis atrodas kosmosā.
-         Ar kosmosa kuģi tam ir jāizvairās no meterorītiem 
-         Kosmosa kuģim ir tikai viena dzīvība ja tam pieskaras spēle ir beigusies
+        spēles galvenais uzdevums ir uzvarēt pretinieku stratēģiskajā un klasiskajā spēlē 
+        piedalās 2 spēlētāji, abi ievada no klaviatūras darbības
 
 ## Galvenās funkcijas
-        Programma skaita sašauto meteorītu skaitu
-        Laiku cik ilgi ir izdzīvojis
-        Un kopējo rezultātu ( tas veidojas sašauto meteorītu skaitu sareizinot ar laiku) 
+        Programma nosaka visus iespējamos rezultātus un izvada kurš ir uzvarējis
 
 ## Izmantotās tehnoloģijas
         c++
